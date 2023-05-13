@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HybridFrameworks/E-commerceProject_Backend/.idea/E-commerceProject_Backend.iml" filepath="$PROJECT_DIR$/../HybridFrameworks/E-commerceProject_Backend/.idea/E-commerceProject_Backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningPython.iml" filepath="$PROJECT_DIR$/.idea/LearningPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PyTest/.idea/Learning_PyTest.iml" filepath="$PROJECT_DIR$/../PyTest/.idea/Learning_PyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TestFrameworkDemo/.idea/TestFrameworkDemo.iml" filepath="$PROJECT_DIR$/../TestFrameworkDemo/.idea/TestFrameworkDemo.iml" />
